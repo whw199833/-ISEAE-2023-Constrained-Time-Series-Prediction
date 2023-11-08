@@ -3,6 +3,18 @@
 
 code for [a-constrained-time-based-algorithm-for-vehicle-maintenance-item-prediction](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12748/127481H/A-constrained-time-based-algorithm-for-vehicle-maintain-prediction/10.1117/12.2689850.short)
 
+## :wrench: Dependencies and Installation
+
+- Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
+- [PyTorch >= 1.7](https://pytorch.org/)
+- [transformers]
+- [Pandas]
+- [Numpy]
+- [matplotlib]
+- [seaborn]
+- Option: NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
+- Option: Linux
+
 ## :computer: Training
 
 follow the instruction of the source code `/src/code`
