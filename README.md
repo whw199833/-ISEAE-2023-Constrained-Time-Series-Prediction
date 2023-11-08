@@ -5,7 +5,7 @@ code for [a-constrained-time-based-algorithm-for-vehicle-maintenance-item-predic
 
 ## :computer: Training
 
-follow the instruction of the source code
+follow the instruction of the source code `/src/code`
 
 ## :scroll: BibTeX
 
